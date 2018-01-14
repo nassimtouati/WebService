@@ -1,5 +1,4 @@
 # WebService
-Elaborated by: Nassim TOUATI  Nour Houda ROUATBI Ibrahim BEZRHOUD
 
 <h3> Project description</h3>
 The application allows:
